@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Github/meganathan.subramanian__web_project"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "meganathan.subramanian__web_project"
+	}
+}
