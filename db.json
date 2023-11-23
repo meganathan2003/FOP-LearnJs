@@ -1,0 +1,21 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Dinesh",
+      "age": 25,
+      "pass": "Dinesh"
+    },
+    {
+      "id": "2",
+      "name": "mega",
+      "pass": "dinesh@111"
+    },
+    {
+      "id": 3,
+      "name": "John Doe",
+      "age": 25,
+      "pass": "Dinesh"
+    }
+  ]
+}
