@@ -1,5 +1,6 @@
 /* 
- 1. Array is also like the object we can store the multiple value without any key value
+ 1. Array is also like the object we can store the multiple 
+ value without any key value
 */ 
 
 // Example 
